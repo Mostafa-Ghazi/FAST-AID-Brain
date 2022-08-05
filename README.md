@@ -49,11 +49,12 @@ Singularity (tested with v3.0.0).
 <br />
 
 # Usage
-•	A simple command for running the application could be
+•	A simple command for running the program is
 <br />
-&emsp; singularity run --nv fast_aid_brain.sif /input-dir/ /output-dir/ 16 gpu weighted-majority uint8 1 2
+&emsp; `singularity run --nv fast_aid_brain.sif /input-dir/ /output-dir/ 16 gpu weighted-majority uint8 1 2`
 <br />
 where 16 is the minibatch or patch size and can be adjusted based on the NVIDIA GPU memory size, gpu is the execution environment, weighted-majority indicates the algorithm used for the fusion of the three orthogonal planes, uint8 assigns the output file type, 1 is used for postprocessing, and 2 is set to generate isotropic 1 mm brain scan and its segmentations as well as the annotations for the image of the same resolution.
+<br />
 
 # Citation
 When you publish your research using this toolbox, please cite [1] as
