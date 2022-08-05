@@ -31,15 +31,15 @@ Singularity (tested with v3.0.0).
 <br />
 /output-dir/
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp; MRI1_1mm.nii.gz, MRI1_1mm_seg.nii.gz, MRI1_seg.nii.gz
+&emsp;&emsp;&emsp; MRI1_1mm.nii.gz, MRI1_1mm_seg.nii.gz, MRI1_seg.nii.gz
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp; MRI2_1mm.nii.gz, MRI2_1mm_seg.nii.gz, MRI2_seg.nii.gz
+&emsp;&emsp;&emsp; MRI2_1mm.nii.gz, MRI2_1mm_seg.nii.gz, MRI2_seg.nii.gz
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp; MRI3_1mm.nii.gz, MRI3_1mm_seg.nii.gz, MRI3_seg.nii.gz
+&emsp;&emsp;&emsp; MRI3_1mm.nii.gz, MRI3_1mm_seg.nii.gz, MRI3_seg.nii.gz
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp; MRI4_1mm.nii.gz, MRI4_1mm_seg.nii.gz, MRI4_seg.nii.gz
+&emsp;&emsp;&emsp; MRI4_1mm.nii.gz, MRI4_1mm_seg.nii.gz, MRI4_seg.nii.gz
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp; MRI5/ MRI5_1mm.nii.gz, MRI5_1mm_seg.nii.gz, MRI5_seg.nii.gz
+&emsp;&emsp;&emsp; MRI5/ MRI5_1mm.nii.gz, MRI5_1mm_seg.nii.gz, MRI5_seg.nii.gz
 <br />
 
 # Citation
