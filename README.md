@@ -15,15 +15,21 @@ Singularity (tested with v3.0.0).
 <br />
 
 # Inputs
-•	A CSV file containing timestamp/age information, labels, and measurements in columns under variable names 'SubjectID', 'Label', 'Age', and 'Features'. Missing labels and missing values need to be assigned as empty cell and NaN, respectively.
+•	T1-weighted brain MRI scans of any desired file names and supported extensions (nii, nii.gz., img/hdr, mgh, mgz, dcm) can be placed in one desired input directory as
 <br />
-•	Proportion of validation and test subjects to all available subjects in data partitioning.
+/input-dir/
 <br />
-•	Network parameters including the number of layer nodes, type of RNN, and activation functions.
+&emsp;&emsp;&emsp; MRI1.nii
 <br />
-•	Optimization parameters including the optimizer, RNN time step, and regularization and update rules.
+&emsp;&emsp;&emsp; MRI2.nii.gz
 <br />
-•	Evaluation metric for validation and test predictions.
+&emsp;&emsp;&emsp; MRI3.img, MRI3.hdr
+<br />
+&emsp;&emsp;&emsp; MRI4.mgh
+<br />
+&emsp;&emsp;&emsp; MRI5.mgz
+<br />
+&emsp;&emsp;&emsp; MRI6/ seq1.dcm, seq2.dcm, …, seqN.dcm
 <br />
 
 # Outputs
@@ -39,7 +45,7 @@ Singularity (tested with v3.0.0).
 <br />
 &emsp;&emsp;&emsp; MRI4_1mm.nii.gz, MRI4_1mm_seg.nii.gz, MRI4_seg.nii.gz
 <br />
-&emsp;&emsp;&emsp; MRI5/ MRI5_1mm.nii.gz, MRI5_1mm_seg.nii.gz, MRI5_seg.nii.gz
+&emsp;&emsp;&emsp; MRI5_1mm.nii.gz, MRI5_1mm_seg.nii.gz, MRI5_seg.nii.gz
 <br />
 
 # Citation
