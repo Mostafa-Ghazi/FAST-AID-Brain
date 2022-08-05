@@ -15,7 +15,7 @@ Singularity (tested with v3.0.0).
 <br />
 
 # Inputs
-•	T1-weighted brain MRI scans of any desired file names and supported extensions (nii, nii.gz., img/hdr, mgh, mgz, dcm) can be placed in one desired input directory as
+•	T1-weighted brain MRI scans of any desired file names and supported extensions (nii, nii.gz, img/hdr, mgh, mgz, dcm) can be placed in one desired input directory as
 <br />
 /input-dir/
 <br />
