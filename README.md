@@ -33,7 +33,7 @@ Singularity (tested with v3.0.0).
 <br />
 
 # Outputs
-•	The scaled brain MRI scans and segmentations will be saved in the desired output directory with the same input file names followed by the resolution and a segmentation tag as
+•	The scaled brain MRI scans and segmentations (according to Labels.md) will be saved in the desired output directory with the same input file names followed by the resolution and a segmentation tag as
 <br />
 /output-dir/
 <br />
