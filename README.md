@@ -80,7 +80,7 @@ When you publish your research using this toolbox, please cite [1] as
 # References
 [1] Mehdipour Ghazi, M., Nielsen, M., 2022. FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain. arXiv preprint arXiv:2208.14360, 2022.
 <br />
-[2] Mehdipour Ghazi, M., 2022. MRI-Augmentation: A toolbox for MRI-based data augmentation.
+[2] Mehdipour Ghazi, M., 2022. MRI-Augmentation: A toolbox for MRI-based data augmentation. (https://github.com/Mostafa-Ghazi/MRI-Augmentation)
 <br />
 
 Contact: mostafa.mehdipour@gmail.com
