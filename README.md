@@ -3,7 +3,7 @@ Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for 
 <br />
 
 # Description
-The FAST-AID Brain can be applied to T1-weighted brain MRI scans to segment the human brain into  132 regions robustly and accurately, without any preprocessing or postprocessing steps, and used for the estimation of the intracranial volume based on the obtained annotations. This toolbox is an implementation of the algorithm proposed in [1].
+The FAST-AID Brain can be applied to T1-weighted brain MRI scans to segment the human brain into  132 regions robustly and accurately, without any preprocessing or postprocessing steps, and used for the estimation of the intracranial volume based on the obtained annotations. This toolbox, available at (https://doi.org/10.5281/zenodo.7037925), is an implementation of the algorithm proposed in [1].
 <br />
 
 # Algorithm
